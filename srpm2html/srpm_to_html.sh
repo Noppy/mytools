@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 export LANG=C
 export PATH=:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:
