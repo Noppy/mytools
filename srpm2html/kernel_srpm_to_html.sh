@@ -5,7 +5,7 @@ export PATH=:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:
 
 RPMBUILD_DIR=/data/rpmbuild
 SQUASHFS_DIR=/data/squashfs
-HTTP_HTML_DIR=/data/html
+HTTP_HTML_DIR=/data/kernel
 SOURCE_DIR=/data/source
 
 #check rpm package
